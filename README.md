@@ -1,4 +1,4 @@
-# MultiPoker
+# DrawPoker
 
 ## 概要
 Unityで制作したオンライン対戦型のポーカーゲームです。
